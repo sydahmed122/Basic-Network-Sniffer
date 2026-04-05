@@ -1,4 +1,4 @@
-# -Basic-Network-Sniffer
+# Basic-Network-Sniffer
 from scapy.all import sniff, IP, TCP, UDP
 
 def packet_callback(packet):
